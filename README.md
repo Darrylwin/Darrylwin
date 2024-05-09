@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on python, java and others. it would be the occasion to learn some new things
 - 📫 How to reach me https://www.linkedin.com/in/darryl-win-logossou-04b5502a6/, logossoudarryl20@gmail.com, logossoudarryl@yahoo.com, +228 96 31 39 23
-- 😄 Pronouns:Le Seul Mec D'Ice Spice
+- 😄 Pronouns:
 - ⚡ Fun fact: Basket, Animes, Mangas
 
 <!---
