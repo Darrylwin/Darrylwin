@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Darrylwin
-- 👀 I’m interested in python, java, sql, a bit in php and i wanna learn react and versionning
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on python, java and others. it would be the occasion to learn some new things
-- 📫 How to reach me https://www.linkedin.com/in/darryl-win-logossou-04b5502a6/, logossoudarryl20@gmail.com, logossoudarryl@yahoo.com, +228 96 31 39 23
-- 😄 Pronouns:
-- ⚡ Fun fact: Basket, Animes, Mangas
+- 👀 I’m interested in Dart, java, sql, FlutterFlow, a bit in php and i wanna learn .NET and versionning
+- 🌱 I’m currently learning Flutter and python
+- 💞️ I’m looking to collaborate on Flutter, java and Web. it would be the occasion to learn some new things
+- 📫 How to reach me https://www.linkedin.com/in/darryl-win-logossou-04b5502a6/, logossoudarryl20@gmail.com, logossoudarryl@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Basket, Animes, Mangas, Gaming
 
 <!---
 Darrylwin/Darrylwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
