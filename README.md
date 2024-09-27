@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Darrylwin&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
