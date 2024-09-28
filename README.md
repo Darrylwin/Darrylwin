@@ -105,6 +105,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> 
   <img src="https://github-profile-trophy.vercel.app?username=Darrylwin&theme=nord&column=-1&row=1" height="150" alt="trophy graph"  /> <br/> 
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" /> 
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  />
 </div>
 
