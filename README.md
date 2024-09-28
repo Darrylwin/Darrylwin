@@ -36,14 +36,6 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Darrylwin.Darrylwin&"  />
-</div>
-
-###
-
 <h2 align="left">🛠 Language and tools :</h2>
 
 ###
@@ -104,11 +96,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Darrylwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> <br/> <br/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> 
-  <img src="https://github-profile-trophy.vercel.app?username=Darrylwin&theme=nord&column=-1&row=1" height="150" alt="trophy graph"  /> <br/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=nord&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  /> <br/> 
 
   <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" /> 
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
+
 </div>
 
 ###
+---
+[![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
+
