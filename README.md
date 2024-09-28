@@ -12,7 +12,17 @@
 
 <br clear="both">
 
-<p align="left">👋 I’m @Darrylwin<br>🖥️ My Stack : [Flutter, .Net]<br>🔭 I’m currently working on a Food Delivery App<br>🌱 I’m currently learning Auth with Flutter<br>👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like ASP.Net, Github and All Jetbrains Tools especially Phpstorm and DataGrip and AndroidStudio<br>👯 I’m looking to collaborate on Flutter Mobile App project or .Net  projects.<br>🤔 I’m looking for help with :Google cloud plateform to get an API KEY<br>💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture or CI/CD with Github.<br>⚡ Fun fact: Anime, Gaming, Basketball</p>
+<p align="left">
+👋 I’m @Darrylwin<br>
+🖥️ My Stack : Flutter, .Net<br>
+🔭 I’m currently working on a Food Delivery App<br>
+🌱 I’m currently learning Auth with Flutter<br>
+👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like ASP.Net, Github and All Jetbrains Tools especially Phpstorm, DataGrip and AndroidStudio<br>
+👯 I’m looking to collaborate on Flutter Mobile App project or .Net  projects.<br>
+🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br>
+💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture.<br>
+⚡ Fun fact: Anime, Gaming, Basketball
+</p>
 
 ###
 
@@ -86,16 +96,16 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥 My Stats :</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darrylwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> <br/> <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  /> <br/> <br/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Darrylwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> <br/> <br/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> 
   <img src="https://github-profile-trophy.vercel.app?username=Darrylwin&theme=nord&column=-1&row=1" height="150" alt="trophy graph"  /> <br/> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
