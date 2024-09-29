@@ -102,8 +102,9 @@
 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=one_dark_pro&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
     <br/> <br/> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=onedark&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
-   <br/> <br/> 
+
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=onedark&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
+   <br/> <br/>  -->
 
    <p align="center" >
 	<picture>
