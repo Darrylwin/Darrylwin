@@ -93,16 +93,28 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darrylwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> <br/> <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=one_dark_pro" height="250" alt="stats graph"  /> <br/> <br/> 
+</div>
+
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin)
+
+###
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> -->
+###
+
+<div align="left">
+
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> <br/> 
   <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=nord&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  /> <br/> <br/> 
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" /> 
-  
+</div>
+
+[![Darrylwin's Github Stats](https://stats.deeptrain.net/user/Darrylwin/)](https://github.com/darrylwin/darrylwin)
+
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" /> 
+   -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
 
-</div>
 
 ###
 ---
