@@ -93,22 +93,31 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=one_dark_pro" height="250" alt="stats graph"  /> <br/> <br/> 
-</div>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin)
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=one_dark_pro" height="250" alt="stats graph"  /> 
+  <br/> <br/>  -->
+  
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" height="300" alt="stats graph"  /> 
+  <br/> <br/> 
 
-###
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> -->
-###
-
-<div align="left">
-
-  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> <br/> 
+  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
+    <br/> <br/> 
   <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=nord&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
-   <!-- <br/> <br/>  -->
+   <br/> <br/> 
+
+   <p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+
 
 </div>
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> -->
 
 <!-- [![Darrylwin's Github Stats](https://stats.deeptrain.net/user/Darrylwin/)](https://github.com/darrylwin/darrylwin) -->
 
@@ -116,8 +125,6 @@
    -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
 
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
 
