@@ -97,7 +97,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=one_dark_pro" height="250" alt="stats graph"  /> 
   <br/> <br/>  -->
   
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="470" alt="stats graph"  /> 
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="500" alt="stats graph"  /> 
   <br/> <br/> 
 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=one_dark_pro&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
