@@ -105,11 +105,12 @@
 <div align="left">
 
   <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/> <br/> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=nord&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  /> <br/> <br/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=nord&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
+   <!-- <br/> <br/>  -->
 
 </div>
 
-[![Darrylwin's Github Stats](https://stats.deeptrain.net/user/Darrylwin/)](https://github.com/darrylwin/darrylwin)
+<!-- [![Darrylwin's Github Stats](https://stats.deeptrain.net/user/Darrylwin/)](https://github.com/darrylwin/darrylwin) -->
 
   <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" /> 
    -->
