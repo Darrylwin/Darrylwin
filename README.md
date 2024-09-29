@@ -90,18 +90,28 @@
 
 <h2 align="left">🔥 My Stats :</h2>
 
-###
-
 <div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=true&layout=compact" height="250" alt="stats graph"  /> 
   <br/> 
-  <!-- <br/>  -->
-  
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="500" alt="stats graph"  /> 
   <br/> 
-  <!-- <br/>  -->
+  
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="550" alt="stats graph"  /> 
+  <br/> 
+  <br/> 
 
+
+  <p align="center" >
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
+    </picture>
+  </p>
+
+</div>
+
+###
   <!-- <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=one_dark_pro&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />  -->
   <!-- <br/> <br/>  -->
 
@@ -111,17 +121,6 @@
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=onedark&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
    <br/> <br/>  -->
 
-   <p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
-
-
-</div>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> -->
 
