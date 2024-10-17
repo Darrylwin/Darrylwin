@@ -76,11 +76,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-
-  <a href="https://www.php.net" target="_blank">
-    <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
-  </a>
+  <img width="12"/>
+  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -104,7 +102,6 @@
   <br/> 
   <br/>  -->
 
-
   <p align="center" >
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Darrylwin/Darrylwin/output-3d-contrib/night.svg" />
@@ -116,15 +113,12 @@
 </div>
 
 ###
+
   <!-- <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&theme=one_dark_pro&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />  -->
   <!-- <br/> <br/>  -->
 
-  
-
-
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=Darrylwin&theme=onedark&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"  />
    <br/> <br/>  -->
-
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darrylwin&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/> <br/> -->
 
@@ -135,5 +129,5 @@
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
