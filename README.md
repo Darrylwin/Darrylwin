@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12"/>
-  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42"/>
+  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
   <img width="12" />
