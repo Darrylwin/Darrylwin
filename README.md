@@ -130,7 +130,8 @@
   <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" />  -->
 
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
-
+<!--
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
