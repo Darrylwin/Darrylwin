@@ -15,7 +15,7 @@
 <p align="left">
 👋 I’m @Darrylwin<br>
 🖥️ My Stack : Flutter, .Net<br>
-🔭 I’m currently working on a Food Delivery App<br>
+<!-- 🔭 I’m currently working on a Food Delivery App<br> -->
 🌱 I’m currently learning Auth with Flutter<br>
 👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like ASP.Net, Github and All Jetbrains Tools especially Phpstorm, DataGrip and AndroidStudio<br>
 👯 I’m looking to collaborate on Flutter Mobile App project or .Net  projects.<br>
