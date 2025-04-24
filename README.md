@@ -14,11 +14,11 @@
 
 <p align="left">
 👋 I’m @Darrylwin<br>
-🖥️ My Stack : Flutter, .Net<br>
+🖥️ My Stack : Flutter, .Net, Laravel<br>
 <!-- 🔭 I’m currently working on a Food Delivery App<br> -->
 🌱 I’m currently learning Auth with Flutter<br>
 👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like ASP.Net, Github and All Jetbrains Tools especially Phpstorm, DataGrip and AndroidStudio<br>
-👯 I’m looking to collaborate on Flutter Mobile App project or .Net  projects.<br>
+👯 I’m looking to collaborate on Flutter Mobile App project, .Net  projects or Laravel.<br>
 🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br>
 💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture.<br>
 ⚡ Fun fact: Anime, Gaming, Basketball
@@ -72,6 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
