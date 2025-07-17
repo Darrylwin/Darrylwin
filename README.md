@@ -41,8 +41,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -50,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -71,23 +67,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12"/>
-  <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12"/>
+  <img alt="php logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
 ###
@@ -99,7 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=false&layout=compact" height="250" alt="stats graph"  /> 
   <br/> 
   <br/> 
-  
+
   <!-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="550" alt="stats graph"  /> 
   <br/> 
   <br/>  -->
@@ -132,8 +134,4 @@
   <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Darrylwin&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" />  -->
 
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrylwin&theme=noctis-minimus&area=true&radius=10" height="350" alt="activity-graph graph"  /> -->
-<!--
----
-
-[![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+<!-- [![](https://visitcount.itsvg.in/api?id=Darrylwin&icon=0&color=0)](https://visitcount.itsvg.in) -->
