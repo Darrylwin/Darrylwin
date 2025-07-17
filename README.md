@@ -13,16 +13,15 @@
 <br clear="both">
 
 <p align="left">
-👋 I’m @Darrylwin<br>
-🖥️ My Stack : Flutter, Laravel, Express<br>
-<!-- 🔭 I’m currently working on an app that gives advice and recommendations to future students, focused on digital and tech fields.<br> -->
-🌱 I'm currently learning Laravel<br>
-👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio<br>
+👋 I’m @Darrylwin.<br>
+🖥️ My Stack : Flutter, Laravel, Express.<br>
+🔭 I’m currently working on an app that gives advice and recommendations to future students, focused on digital and tech fields.<br>
+🌱 I'm currently learning Express and Laravel.<br>
+👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio.<br>
 👯 I’m looking to collaborate on Flutter Mobile App projects or Laravel.<br>
-
-[//]: # (🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br>)
+<!-- 🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br> -->
 💬 Ask me about Mobile App development with Flutter, Clean Code, and Clean Architecture.<br>
-⚡ Fun fact: Anime, Gaming, Basketball
+⚡ Fun fact: Anime, Gaming, Basketball.
 </p>
 
 ###
@@ -42,6 +41,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -77,8 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12"/>
   <img alt="php logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48"/>
   <img width="12"/>
