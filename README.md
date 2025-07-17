@@ -14,13 +14,14 @@
 
 <p align="left">
 👋 I’m @Darrylwin<br>
-🖥️ My Stack : Flutter, .Net, Laravel<br>
-<!-- 🔭 I’m currently working on a Food Delivery App<br> -->
+🖥️ My Stack : Flutter, Laravel, Express<br>
+<!-- 🔭 I’m currently working on an app that gives advice and recommendations to future students, focused on digital and tech fields.<br> -->
 🌱 I'm currently learning Laravel<br>
-👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like ASP.Net, Github and All Jetbrains Tools especially Phpstorm, DataGrip and AndroidStudio<br>
-👯 I’m looking to collaborate on Flutter Mobile App project, .Net  projects or Laravel.<br>
-🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br>
-💬 Ask me about Mobile App developement with Flutter & all on topics like clean Code, Clean Architecture.<br>
+👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio<br>
+👯 I’m looking to collaborate on Flutter Mobile App projects or Laravel.<br>
+
+[//]: # (🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br>)
+💬 Ask me about Mobile App development with Flutter, Clean Code, and Clean Architecture.<br>
 ⚡ Fun fact: Anime, Gaming, Basketball
 </p>
 
