@@ -14,11 +14,11 @@
 
 <p align="left">
 👋 I’m @Darrylwin.<br>
-🖥️ My Stack : Flutter, Laravel, Express.<br>
+🖥️ My Stack : Flutter, NextJs, Express.<br>
 🔭 I’m currently working on an app that gives advice and recommendations to future students, focused on digital and tech fields.<br>
-🌱 I'm currently learning Express and Laravel.<br>
+🌱 I'm currently learning NestJs<br>
 👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio.<br>
-👯 I’m looking to collaborate on Flutter Mobile App projects or Laravel.<br>
+👯 I’m looking to collaborate on Flutter Mobile App projects or Next<br>
 <!-- 🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br> -->
 💬 Ask me about Mobile App development with Flutter, Clean Code, and Clean Architecture.<br>
 ⚡ Fun fact: Anime, Gaming, Basketball.
@@ -67,13 +67,7 @@
   <img width="12" />
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
   <img width="12" />
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
-  <img width="12" />
   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  /></a>
-  <img width="12" />
-  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  /></a>
   <img width="12" />
   <a href="https://www.markdownguide.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  /></a>
   <img width="12" />
@@ -81,13 +75,19 @@
   <img width="12"/>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
   <img width="12"/>
+    <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+  <img width="12"/>
   <a href="https://www.php.net/" target="_blank"><img alt="php logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48"/></a>
   <img width="12"/>
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /></a>
   <img width="12" />
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
+<img width="12" />
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
   <img width="12" />
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  /></a>
+  <img width="12" />
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
   <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
   <img width="12" />
@@ -101,9 +101,9 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=false&layout=compact" height="250" alt="stats graph"  /> 
-  <br/> 
-  <br/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=false&layout=compact" height="250" alt="stats graph"  />
+  <br/>
+  <br/>
 
   <!-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="550" alt="stats graph"  /> 
   <br/> 
