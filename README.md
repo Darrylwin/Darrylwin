@@ -14,11 +14,11 @@
 
 <p align="left">
 👋 I’m @Darrylwin.<br>
-🖥️ My Stack : Flutter, NextJs, Express.<br>
-🔭 I’m currently working on an app that gives advice and recommendations to future students, focused on digital and tech fields.<br>
-🌱 I'm currently learning NestJs<br>
-👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio.<br>
-👯 I’m looking to collaborate on Flutter Mobile App projects or Next<br>
+🖥️ My Stack : Flutter, NextJs, Nest.js .<br>
+🔭 I’m currently working on a roulette app in occas of valentines day<br>
+🌱 I'm currently learning Java Spring<br>
+👀 I’m interested in Google Technos like Flutter, Firebase && Microsoft Technos like GitHub and All Jetbrains Tools especially Phpstorm, Webstorm, DataGrip and AndroidStudio and the Node environement.<br>
+👯 I’m looking to collaborate on Mobile or Web apps<br>
 <!-- 🤔 I’m looking for help with Google cloud plateform to get an API KEY for Google Maps<br> -->
 💬 Ask me about Mobile App development with Flutter, Clean Code, and Clean Architecture.<br>
 ⚡ Fun fact: Anime, Gaming, Basketball.
@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darryl-win-logossou-04b5502a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/darryl-win-logossou" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -41,37 +41,25 @@
 ###
 
 <div align="left">
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></a>
-  <img width="12"/>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /></a>
-  <img width="12" />
   <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  /></a>
   <img width="12" />
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  /></a>
   <img width="12" />
-  <a href="https://www.google.com/chrome/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
-  <img width="12" />
   <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /></a>
   <img width="12" />
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  /></a>
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
+    <a href="https://www.jetbrains.com/intellij/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /></a>
   <img width="12" />
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /></a>
-  <img width="12" />
-  <a href="https://www.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  /></a>
-  <img width="12" />
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
+  <a href="https://www.jetbrains.com/intellij/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
   <img width="12" />
   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  /></a>
-  <img width="12" />
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /></a>
   <img width="12"/>
-    <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
+  <img width="12"/>
+    <a href="https://nestjs.org/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  /></a>
   <img width="12"/>
     <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
   <img width="12"/>
@@ -80,13 +68,6 @@
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /></a>
   <img width="12" />
   <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
-<img width="12" />
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
-  <img width="12" />
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /></a>
-  <img width="12" />
-<!--       <a href="https://ui.shadcn.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcnui/shadcnui-original.svg" height="40" alt="shadcn logo"  /></a>
-  <img width="12" /> -->
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  /></a>
   <img width="12" />
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
@@ -105,18 +86,18 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=false&layout=compact" height="250" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=darrylwin&show=prs_merged&show_icons=true&theme=gotham&show_owner=true&hide_title=false&layout=compact" height="250" alt="stats graph"  />
   <br/>
-  <br/>
+  <br/> -->
 
   <!-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Darrylwin" width="550" alt="stats graph"  /> 
   <br/> 
   <br/>  -->
 
 <!-- last theme: &theme=one_dark_pro -->
-  <!-- <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"  /> 
+  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"  /> 
   <br/>
-  <br/> -->
+  <br/>
 
   <p align="center" >
     <picture>
