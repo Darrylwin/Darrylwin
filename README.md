@@ -15,7 +15,7 @@
 <p align="left">
 👋 I'm @Darrylwin.<br>
 🖥️ My Stack : Flutter, NestJS, Next.js,.<br>
-🔭 I'm currently building <strong>Ovoo</strong>. A fintech platform digitalizing BNPL and tontines (rotating savings groups) for the UEMOA/West Africa market, at Kauza Africa.<br>
+🔭 I'm currently building <strong>Ovoo</strong>. A fintech platform digitalizing BNPL and tontines (rotating savings groups) for the UEMOA/West Africa market, at <a href="https://github.com/Kauza-Ovoo" target="_blank">Kauza Africa</a>.<br>
 🎓 Wrapping up my final year at IAI-TOGO, finalizing my thesis defense  around Ovoo's architecture and design.<br>
 👀 I'm interested in mobile architecture (Clean Architecture, BLoC/Cubit) and backend system design (DDD, event-driven patterns).<br>
 👯 I'm looking to collaborate on mobile or backend products.<br>
