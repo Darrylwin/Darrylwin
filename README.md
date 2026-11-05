@@ -85,6 +85,7 @@
   <br/>
   <br/>
   -->
+  <br clear="both">
 
   <p align="center" >
     <picture>
