@@ -20,7 +20,7 @@
 </p>
 
 ###
-<br clear="both">
+
 <h2 align="left">Connect with me:</h2>
 
 ###
@@ -79,12 +79,14 @@
 <div align="center">
 
 <!-- last theme: &theme=one_dark_pro -->
-  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"  /> 
+  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"/> 
+
 <!--  <br/>
   <br/>
   -->
   
-  <br>
+  <br/>
+  <br/
 
   <p align="center" >
     <picture>
