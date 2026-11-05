@@ -3,14 +3,10 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <h2 align="left">Hi there 👋</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">
 👋 I'm @Darrylwin.<br>
@@ -24,7 +20,7 @@
 </p>
 
 ###
-
+<br clear="both">
 <h2 align="left">Connect with me:</h2>
 
 ###
@@ -35,6 +31,7 @@
   </a>
 </div>
 
+<br clear="both">
 <h2 align="left">🛠 Language and tools :</h2>
 
 ###
@@ -75,17 +72,19 @@
 </div>
 
 ###
+<br clear="both">
 
 <h2 align="left">🔥 My Stats :</h2>
 
 <div align="center">
 
 <!-- last theme: &theme=one_dark_pro -->
-<!--  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"  /> 
-  <br/>
+  <img src="https://streak-stats.demolab.com?user=Darrylwin&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=gotham" height="220" alt="streak graph"  /> 
+<!--  <br/>
   <br/>
   -->
-  <br clear="both">
+  
+  <br>
 
   <p align="center" >
     <picture>
